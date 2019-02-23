@@ -1,0 +1,26 @@
+*{margin: 0; padding: 0;}
+
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+header{
+  height: 150px;
+  background-color: #0984e3;
+  padding: 30px;
+  width: 100%;
+}
+
+.paragraph{
+  padding: 50px;
+  margin-top: 60px;
+}
+
+.items{
+  padding: 50px;
+  margin-top: 80px;
+}
+
+[v-cloak] {
+  display: none;
+}
